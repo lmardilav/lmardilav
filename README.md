@@ -29,12 +29,29 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Developer Front End and Data Analyst**
+Passionate Software Engineer and Data Engineer focused on Full Stack Development, AI Automation, scalable cloud solutions, and data-driven systems.
 
-- Systems Engineer, Passionate Web Developer, Google Certified Data Analyst, Web Developer. Front-End, Tester, SQL Server Database, Mysql, and digital marketing specialist with comprehensive experience in Google Ads and Microsoft Ads. My focus is on creating exceptional web experiences, backed by deep data analysis to inform effective strategies. With demonstrated skills in developing dynamic websites and interpreting Google Analytics data, I have led successful advertising campaigns on key platforms. My goal is to combine technological creativity with analytical precision to maximize online impact and achieve exceptional results. I am also highly proficient and results-oriented in Excel, with a proven track record in analyzing data and creating efficient solutions. Expert in the advanced use of functions, pivot tables and complex formulas to optimize processes and make informed decisions. With outstanding skills in automating repetitive tasks, I have contributed to increased productivity and efficiency in various work environments. My meticulous approach and attention to detail ensure the accuracy and reliability of reporting and analysis. Committed to continuous learning, I am ready to contribute my experience in Excel to enhance success in any business challenge Professional in Systems Engineering, Data Analyst, Web Developer. Front-End, Tester, SQL Server Database, Mysql, Php Myadmin, Git/Githut, Vue, Vsc, Media Buyer, Web Traffic.
+I build:
+- AI workflows with N8N, Claude AI & OpenAI
+- Modern web applications
+- Data pipelines and automation systems
+- WhatsApp automation bots
+- Cloud-based solutions
 
-- 🌱Spanish:
-  Soy Ingeniero de sistemas, Desarrollador web apasionado, analista de datos certificado por Google, Desarrollador Web. Front-End, Tengo experiencia como Tester, Base de datos Sql server, Mysql, y especialista en marketing digital con experiencia integral en Google Ads y Microsoft Ads. Mi enfoque se centra en la creación de experiencias web excepcionales, respaldadas por un análisis de datos profundo para informar estrategias eficaces. Con habilidades demostradas en el desarrollo de sitios web dinámicos y la interpretación de datos de Google Analytics, he liderado campañas publicitarias exitosas en plataformas clave. Mi objetivo es combinar la creatividad tecnológica con la precisión analítica para maximizar el impacto en línea y lograr resultados excepcionales. También tengo un manejo de Excel altamente competente y orientado a resultados, con un historial probado en el análisis de datos y la creación de soluciones eficientes. Experto en la utilización avanzada de funciones, tablas dinámicas y fórmulas complejas para optimizar procesos y tomar decisiones informadas. Con habilidades destacadas en la automatización de tareas repetitivas, he contribuido al aumento de la productividad y la eficiencia en diversos entornos laborales. Mi enfoque meticuloso y atención a los detalles aseguran la precisión y fiabilidad de los informes y análisis. Comprometido con el aprendizaje continuo, estoy listo para aportar mi experiencia en Excel para potenciar el éxito en cualquier desafío empresaria Profesional en Ingenieria de sistemas, Analista de Datos, Desarrollador Web. Front-End, Tester, Base de datos Sql server, Mysql, Php Myadmin, Git/Githut, Vue, Vsc, Media Buyer, Trafico Web.
+Tech Focus:
+React • Node.js • Python • SQL • Firebase • Docker • AWS • FastAPI • N8N
+
+Ingeniero de Sistemas e Ingeniero de Datos enfocado en desarrollo Full Stack, automatización con IA, soluciones cloud y sistemas orientados a datos.
+
+Actualmente desarrollo:
+- Automatizaciones con N8N, Claude AI y OpenAI
+- Aplicaciones web modernas
+- Pipelines y soluciones de datos
+- Bots automatizados para WhatsApp
+- Soluciones escalables en la nube
+
+Tecnologías:
+React • Node.js • Python • SQL • Firebase • Docker • AWS • FastAPI • N8N
 
 
 <!--Intro end-->
