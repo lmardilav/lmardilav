@@ -14,7 +14,7 @@
 
   <p align="center">
     <a href="https://mauroardila.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15C198&random=false&width=435&lines=Developer+Web;Data+Analyst;Marketing+Digital;Developer+Front-End" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15C198&random=false&width=435&lines=Engineer+Data;Software+Engineer;Developer+Web;Data+Analyst;Marketing+Digital;Developer+Front-End" />
     </a>
   </p>
 </div>
