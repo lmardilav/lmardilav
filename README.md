@@ -5,11 +5,18 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi There👋, I'm  Mauricio Ardila</h1></summary>
+    <summary>
+      <h1 style="display:inline-block">
+        Hi There👋, I'm Mauricio Ardila
+      </h1>
+    </summary>
   </ul>
+
   <p align="center">
-  <a align="center" href="https://mauroardila.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15C519&random=false&width=435&lines=Developer+Web, Data+Analyst](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15C519&random=false&width=435&lines=Mauricio+Ardila;Data+Analyst;Marketing+Digital)](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15C519&random=false&width=440&lines=Developer+Web;Data+Analyst;Marketing+Digital;Developer+Front+End"></a>
-</p>
+    <a href="https://mauroardila.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15C198&random=false&width=435&lines=Developer+Web;Data+Analyst;Marketing+Digital;Developer+Front-End" />
+    </a>
+  </p>
 </div>
 
 
